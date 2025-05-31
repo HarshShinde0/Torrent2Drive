@@ -20,8 +20,7 @@ Torrent2Drive is a lightweight Google Colab-based solution that allows you to do
 
 ### 1. Open the Colab Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/HarshShinde0/Torrent2Drive/blob/main/Torrent2Drive.ipynb)]
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HarshShinde0/Torrent2Drive/blob/main/Torrent2Drive.ipynb)
 > _Paste the notebook code here or link to your own repo._
 
 ---
