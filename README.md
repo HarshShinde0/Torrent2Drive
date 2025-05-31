@@ -75,12 +75,6 @@ Downloading or sharing copyrighted material without proper authorization is ille
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🤝 Contributing
 
 Pull requests and improvements are welcome! Feel free to fork and extend the functionality — such as:
